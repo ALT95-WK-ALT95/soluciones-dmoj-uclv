@@ -1,2 +1,10 @@
 # soluciones-dmoj-uclv
-Guía de soluciones para problemas del DMOJ Cuba (uclv.edu.cu)
+ Soluciones DMOJ Cuba
+
+Este repositorio contiene mis soluciones para problemas de la plataforma [DMOJ Cuba](https://dmoj.uclv.edu.cu).
+
+## 📂 Estructura
+Cada problema se organiza en una carpeta independiente, que puede incluir:
+- Código fuente en distintos lenguajes (`cpp/`, `python/`, `java/`, etc.)
+- Un `README.md` con enunciado resumido, casos de prueba y notas de implementación.
+
