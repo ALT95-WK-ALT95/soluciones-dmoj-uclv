@@ -29,7 +29,7 @@ La solución sería basicamente hacer una búsqueda binaria.
 - Si `>`, mover `b=m-1`.
 - Si `=`, terminar.
 
-y así de fácil sería.
+y así de fácil sería.  
 **Science is Magnificent. By _WK_**
 ---
 ### ENGLISH
